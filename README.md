@@ -16,5 +16,15 @@ $ pip install pause
 ```sh
 $ python login.py
 ```
+
+# Path of python
+In a terminal, execute the following commands
+```sh
+$ import os
+$ import sys
+$ os.path.dirname(sys.executable)
+```
+
+# Why
 Due to the coronavirus, many people require virtual classes, which we can have problems accessing 
 on schedule, so I have created this script to get rid of problems.
