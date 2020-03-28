@@ -8,6 +8,8 @@ This program written in Python needs to install the following plugins with pip:
 * Pynput
 * Pause
 
+You will have to copy the ChromeWebDriver to the Python installation folder
+
 ```sh
 $ pip install selenium
 $ pip install pynput
